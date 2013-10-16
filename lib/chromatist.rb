@@ -1,3 +1,4 @@
+require "chromatist/color"
 require "chromatist/version"
 
 module Chromatist
